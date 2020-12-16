@@ -1,3 +1,5 @@
+package FactoryPattern;
+
 import FactoryPattern.Shape.Shape;
 
 public class FactoryPatternDemo {

@@ -1,3 +1,5 @@
+package FactoryPattern;
+
 import FactoryPattern.Shape.Circle;
 import FactoryPattern.Shape.Rectangle;
 import FactoryPattern.Shape.Shape;
